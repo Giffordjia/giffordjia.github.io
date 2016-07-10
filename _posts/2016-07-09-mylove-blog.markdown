@@ -17,5 +17,5 @@ excerpt: I love you!
 "我爱你"三个字，女孩是永远都不会听厌的。
 
 {% endhighlight %}
-({{ site.url }}/images/i13807d7e7d6d08290dd7daf7.jpg)
+({{ site.url }}/images/p001.jpg)
 {% endhighlight %}
