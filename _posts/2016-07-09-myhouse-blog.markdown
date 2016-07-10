@@ -22,4 +22,4 @@ excerpt: 我要装修，效果图哪个好呢？
 第六张 卧室
 ![6](/images/IMG_1924.JPG)
 第七张 客厅
-![7](/images/IMG_1930.JPG)
+![7](/images/IMG_1930.jpg)
