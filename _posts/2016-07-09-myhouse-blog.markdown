@@ -22,6 +22,6 @@ excerpt: 我要装修，效果图哪个好呢？
 第六张
 ![6](/images/IMG_1924.JPG)
 第七张
-![7](/images/IMG_1925.JPG)
+![7](/images/IMG_1925.jpg)
 第八张
-![8](/images/IMG_1926.JPG)
+![8](/images/IMG_1926.jpg)
