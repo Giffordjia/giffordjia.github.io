@@ -5,6 +5,7 @@ author:     老贾
 date:       2016-07-09 08:13:00 +0800
 categories: notes
 tags:       第一个
+mediaImage: images/psu.jpg
 excerpt: 第一篇博客
 ---
 
