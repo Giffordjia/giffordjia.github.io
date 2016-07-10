@@ -18,6 +18,6 @@ excerpt: I love you!
 
 {% endhighlight %}
 
-{% raw %}{{ site.url }}{% endraw %}/images/p001.jpg
+({% raw %}{{ site.url }}{% endraw %}/images/p001.jpg)
 
 {% endhighlight %}
