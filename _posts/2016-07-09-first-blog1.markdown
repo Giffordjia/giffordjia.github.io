@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      My love
+title:      第一篇
 author:     Gifford
 date:       2016-07-09 08:13:00 +0800
 categories: notes
-tags:       My love
-mediaImage: images/p0097ffd156.jpg
+tags:       第一
+mediaImage: images/jekyll-blog.png
 excerpt: 第一篇博客
 ---
 
