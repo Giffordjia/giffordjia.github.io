@@ -5,7 +5,7 @@ author:     Gifford
 date:       2016-07-09 08:13:00 +0800
 categories: notes
 tags:       第一
-mediaImage: images/jekyll-blog.png
+mediaImage: images/p002.jpg
 excerpt: 第一篇博客
 ---
 
