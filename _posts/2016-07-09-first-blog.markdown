@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      第一个博客
-author:     老贾
+title:      My love
+author:     Gifford
 date:       2016-07-09 08:13:00 +0800
 categories: notes
-tags:       第一个
+tags:       My love
 mediaImage: images/psu.jpg
 excerpt: 第一篇博客
 ---
