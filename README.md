@@ -1,3 +1,3 @@
-## WongJohn Blog Page
+## ÎÒµÄ²©¿Í
 
-See the result at: http://wongjohn.github.io/
+See the result at: http://giffordjia.github.io/
