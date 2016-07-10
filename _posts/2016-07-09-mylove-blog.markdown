@@ -16,10 +16,6 @@ excerpt: I love you!
 如果你爱她，就告诉她，多说几遍也没有关系的。
 "我爱你"三个字，女孩是永远都不会听厌的。
 
-{% endhighlight %}
-
-/images/p001.jpg
-
-{% endhighlight %}
+![爱她就要好好的疼她](/images/p001.jpg)
 
 
